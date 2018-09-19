@@ -1,0 +1,2 @@
+In this excersice we have seen and example of web scraping using python.
+In example we have scrap only specified or selected text, by mentioning class name of the selected "Text" which we want to import.
