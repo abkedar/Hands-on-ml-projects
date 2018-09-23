@@ -1,0 +1,3 @@
+Exercise no. 3
+
+In this tutorial we have started the chapter wise example demonstration from the book "Web Scraping with python" BY O'REILLY.
