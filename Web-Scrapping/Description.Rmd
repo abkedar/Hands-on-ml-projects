@@ -1,2 +1,0 @@
-In this Series of excersice we will go through various method by which we can import data from webpage of any website.
-This method will be how we can import single text to full article. Even table how we can import.
